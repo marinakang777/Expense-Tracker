@@ -1,0 +1,5 @@
+expense_tracker/
+├── expense_tracker.py   # Главный файл приложения
+├── expenses.json        # Файл с данными (создаётся автоматически)
+├── .gitignore
+└── README.md
